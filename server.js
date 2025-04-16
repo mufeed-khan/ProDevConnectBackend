@@ -10,7 +10,7 @@ connectDB();
 
 app.use(
   cors({
-    origin: 'https://your-backend.onrender.com', // अपने फ्रंटएंड का URL यहां डालें
+    origin: 'https://prodevconnectbackend-1.onrender.com', // अपने फ्रंटएंड का URL यहां डालें
     credentials: true,
   })
 );
