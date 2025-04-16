@@ -10,7 +10,7 @@ connectDB();
 
 app.use(
   cors({
-    origin: 'https://prodevconnect.netlify.app/', // अपने फ्रंटएंड का URL यहां डालें
+    origin: 'https://flourishing-mousse-b0932c.netlify.app/', // अपने फ्रंटएंड का URL यहां डालें
     credentials: true,
   })
 );
