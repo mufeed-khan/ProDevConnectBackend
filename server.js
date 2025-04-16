@@ -10,7 +10,7 @@ connectDB();
 
 app.use(
   cors({
-    origin: 'https://prodevconnectbackend-1.onrender.com', // अपने फ्रंटएंड का URL यहां डालें
+    origin: 'https://prodevconnect.netlify.app/', // अपने फ्रंटएंड का URL यहां डालें
     credentials: true,
   })
 );
